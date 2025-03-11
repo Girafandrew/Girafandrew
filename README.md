@@ -45,7 +45,7 @@ Sou formado em Engenharia da Computação pela FURG e tenho experiência no dese
 ## 📊 Estatísticas do GitHub:
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewalaniz&layout=compact)](https://github.com/andrewalaniz/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GirafAndrew&layout=compact)](https://github.com/andrewalaniz/github-readme-stats)
 
 </div>
 
@@ -63,6 +63,6 @@ Sou formado em Engenharia da Computação pela FURG e tenho experiência no dese
 
 ## 📬 Entre em contato comigo:
 <div align="center">
-  <a href="https://www.linkedin.com/in/andrewalaniz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:andrewalaniz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/andrew-alaniz-8727a6294" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="mailto:andrewalanizg@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
