@@ -4,10 +4,10 @@
 
 ### Seja bem-vindo(a) ao meu perfil!
 
-Sou formado em Engenharia da Computação pela FURG e tenho experiência no desenvolvimento backend e frontend. Trabalho principalmente com **Node.js, NestJS, TypeORM, AWS e React**, além de estar sempre aprendendo novas tecnologias. Também tenho interesse em **machine learning e cibersegurança**.
+Sou formado em **Engenharia da Computação pela FURG** e tenho experiência no desenvolvimento backend e frontend. Trabalho principalmente com **Node.js, NestJS, TypeORM, AWS e React**, além de estar sempre aprendendo novas tecnologias. Também tenho interesse em **machine learning e cibersegurança**.
 
 <div id="header" align="center">
-  <img src="https://i.pinimg.com/originals/9d/9b/d1/9d9bd13afce1a798d22ecfd9897730ed.gif" width="250"/>
+  <img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" width="300"/>
 </div>
 
 </div>
