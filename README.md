@@ -66,3 +66,9 @@ Sou formado em Engenharia da Computação pela FURG e tenho experiência no dese
   <a href="https://www.linkedin.com/in/andrew-alaniz-8727a6294" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:andrewalanizg@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+
+<div align="center">
+
+![Snake animation Contribution Graph](https://github.com/Girafandrew/Girafandrew/blob/output/github-snake-dark.svg)
+
+</div>
